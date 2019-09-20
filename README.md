@@ -20,11 +20,18 @@
 
 > 手动触发和自动触发流程图
 
-https://mmbiz.qpic.cn/mmbiz_png/9QbuglRCMtdCsru2H6LaV4RK8WtK406pichH7B190wnBbRKGTMhYQO4lZ54NcObOW1PpNYtH9icI9cQicBI1VWggA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1
+
 
 
 
 ## aof
 
 
+
+
+
+
+
+[^https://mp.weixin.qq.com/s/NpUV-7bvXTD3iu0_2aRssQ?from=timeline]: aof参考
+[^https://mp.weixin.qq.com/s/NpUV-7bvXTD3iu0_2aRssQ?from=timeline]: rdb参考
 
